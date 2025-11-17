@@ -7,7 +7,7 @@ void setup() {
   board = new Board();
   komaList = new KomaList();
 }
-
+  
 void draw() {
   board.draw();
   komaList.draw();
